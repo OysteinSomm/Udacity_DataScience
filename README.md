@@ -21,7 +21,7 @@ pandas numpy seaborn matplotlib.pyplot matplotlib.ticker  matplotlib.dates
 
 Contents of repo:
 Airbnb.jpnyb
-Airbnb data from Kaggle: 
+Airbnb data too large for github, needs to be pulled from Kaggle
 
 Blog post concerning the data and analysis:
 https://medium.com/@oystein.s/the-seattle-airbnb-scene-you-get-what-you-pay-for-and-how-much-do-they-pay-57eafa5f2a2

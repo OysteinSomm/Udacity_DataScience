@@ -6,6 +6,7 @@ Oystein Soemme, 14th October 2021
 Jupyter Notebook written to answer 3 questions on the Seattle Airbnb data set
 Data downloaded from: https://www.kaggle.com/airbnb/seattle/data
 
+# Project motivation
 The three questions investigated:
 1) Are there large seasonal variations? Which weekdays are cheapest / most expensive? 
 2) How strong is the correlation between review score and price paid?  Score / $ ratio
@@ -16,12 +17,25 @@ Key conclusions for each question:
 2) Poor correlation - no clear trend observed. Very poor reviews only for the cheapest listings.
 3) 67% Occupancy rate and approx 140$ daily rates on average, gives approx 33k$ a year revenue.
 
+# Requirements
 Libraries used:
-pandas numpy seaborn matplotlib.pyplot matplotlib.ticker  matplotlib.dates
+pandas 
+numpy 
+seaborn 
+matplotlib.pyplot 
+matplotlib.ticker  
+matplotlib.dates
+Data downloadable from: https://www.kaggle.com/airbnb/seattle/data
 
+#  Files in Repository
 Contents of repo:
 Airbnb.jpnyb
 Airbnb data too large for github, needs to be pulled from Kaggle
 
+# Results
 Blog post concerning the data and analysis:
 https://medium.com/@oystein.s/the-seattle-airbnb-scene-you-get-what-you-pay-for-and-how-much-do-they-pay-57eafa5f2a2
+
+# Acknowledgements
+The data used in the project is available on Kaggle: https://www.kaggle.com/airbnb/seattle/data .
+Instructions and guidelines provided by Udacity, thanks for all the support
